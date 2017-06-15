@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi, i am digambar,
+this project development and design by digambar modi.
+
