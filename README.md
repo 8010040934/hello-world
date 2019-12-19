@@ -1,5 +1,4 @@
 # hello-world
 
-hi, i am digambar,
-this project development and design by digambar modi.
+feature development string security code published
 
